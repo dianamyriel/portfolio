@@ -1,3 +1,9 @@
+---
+title: 'My Resume'
+date: 2019-07-18T17:18:05+01:00
+draft: false
+---
+
 # DIANA E. MYRIEL
 
 3766 Southview Dr. Unit 246 • San Diego, CA • 92117 • E: dianamyriel@gmail.com • M: 619-451-6383 
